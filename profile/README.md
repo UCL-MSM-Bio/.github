@@ -3,4 +3,4 @@
 We are half of the [Materials, Structure, and Manufacturing group](https://www.ucl.ac.uk/materials-harwell/) at University College London.
 This organisation is a place for us to share useful software packages, and code to reproduce results in our papers.
 
-Our sibling group repository can be found at [UCL-MSM-AM](https://github.com/UCL-MSM-AM).
+Our sibling group can be found at [UCL-MSM-AM](https://github.com/UCL-MSM-AM).
